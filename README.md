@@ -1,4 +1,4 @@
-# Shubham Singh — Business & Revenue Analyst
+# Shubham Singh — Analyst
 
 Analyst with hands-on experience building data and ops infrastructure
 from scratch at an early-stage startup.
