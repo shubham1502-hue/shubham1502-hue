@@ -2,7 +2,7 @@
 
 Analyst with hands-on experience building data and ops infrastructure
 from scratch at an early-stage startup.
-Targeting analyst roles at Series A+ startups in Bengaluru.
+Targeting analyst roles at high-growth startups in Bengaluru.
 
 Previously at STEMpedia — primary analytical resource to the CEO.
 Built Zoho CRM, RevOps pipeline, and weekly business review
