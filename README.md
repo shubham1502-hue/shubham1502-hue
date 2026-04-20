@@ -48,7 +48,7 @@ Self-serve backlog and breach analytics
 ---
 
 📍 Bengaluru | Open to **Business Analyst**, **Revenue Analyst**,
-and **Operations Analyst** roles at Series A+ startups
+and **Operations Analyst** roles at high-growth startups
 
 🔗 [linkedin.com/in/shubham9616](https://linkedin.com/in/shubham9616)
 📧 [shubham1502@gmail.com](mailto:shubham1502@gmail.com)
