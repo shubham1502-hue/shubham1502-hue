@@ -10,6 +10,10 @@ At STEMpedia, I was the primary analytical resource to the CEO. I built the enti
 
 ## What I've Built
 
+**Founder OS: Revenue Engine**
+Built to answer the one question every early-stage founder is actually asking: where am I losing revenue, and what do I fix first? Simulates how a Founder's Office operator diagnoses funnel leakage, scores execution priorities by impact, and communicates findings at the investor level — not the analyst level. Identified demo attendance as the highest-leverage fix despite conversion being the largest visible drop. That's the difference between reporting and operating.
+`Python` `Funnel Analysis` `Prioritization Frameworks` → [View Project](https://github.com/shubham9616/founder-os-revenue-engine)
+
 **Collections Strategy A/B Testing Engine**
 Most collection teams guess on timing and channel. I ran a statistically rigorous A/B test across 307K borrowers to find out what actually works — channel affinity, contact timing, and offer logic tested simultaneously. Result: +14.28pp response rate lift, p < 0.01, ₹8.68B incremental recovery quantified.
 `Python` `SQL` `SciPy` `Tableau` → [View Project](https://github.com/shubham9616/collections-strategy-engine)
