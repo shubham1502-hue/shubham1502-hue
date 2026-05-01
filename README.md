@@ -1,54 +1,50 @@
 # Shubham Singh
 
-### I help founders move faster by turning messy operations into clean decisions.
+I help founders move faster by building the operating systems they wish already existed.
 
-Early-stage operator with 14 months inside a founder-led startup — built from zero, shipped fast, reported directly to leadership. I sit at the intersection of business strategy, revenue operations, and data infrastructure. Not an analyst waiting for a brief. An operator who finds the problem, builds the system, and presents the answer.
+Founder's Office / startup operator with 14 months inside a founder-led startup, building RevOps infrastructure, decision-making systems, and cross-functional workflows from zero. I work at the intersection of strategy, operations, and analytics — not just reporting what happened, but building the system that helps leadership decide what to do next.
 
-At STEMpedia, I was the primary analytical resource to the CEO. I built the entire Zoho CRM and RevOps infrastructure from scratch, designed the end-to-end pipeline across Sales, Operations, and Service Delivery, and cut the sales cycle by 15%. My outputs went straight into weekly business reviews. That's the context I'm built for.
-
----
+At STEMpedia, I built the Zoho-based revenue operations stack from scratch across CRM, Books, reporting, and team handoffs. That included pipeline design, stage-based automations, lead capture from events and webforms, Books-to-CRM reconciliation, and weekly CEO reporting. The result: a 15% reduction in sales cycle time, a 5 percentage point improvement in conversion, and roughly 15 hours per week of manual work eliminated across Sales, Ops, and Service Delivery.
 
 ## What I've Built
 
-**Founder OS: Revenue Engine**
-Built to answer the one question every early-stage founder is actually asking: where am I losing revenue, and what do I fix first? Simulates how a Founder's Office operator diagnoses funnel leakage, scores execution priorities by impact, and communicates findings at the investor level — not the analyst level. Identified demo attendance as the highest-leverage fix despite conversion being the largest visible drop. That's the difference between reporting and operating.
-`Python` `Funnel Analysis` `Prioritization Frameworks` → [View Project](https://github.com/shubham9616/founder-os-revenue-engine)
+### RevOps Infrastructure Playbook
+A full operating-system repo based on the RevOps stack I built in production: Zoho CRM, Zoho Books, automations, approval flows, cross-team handoffs, revenue reconciliation, and weekly CEO reporting. This is the clearest proof of how I think as an operator.
+**Stack:** Zoho CRM, Zoho Books, Make.com, Deluge, SQL  
+→ [View Project](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
 
-**Collections Strategy A/B Testing Engine**
-Most collection teams guess on timing and channel. I ran a statistically rigorous A/B test across 307K borrowers to find out what actually works — channel affinity, contact timing, and offer logic tested simultaneously. Result: +14.28pp response rate lift, p < 0.01, ₹8.68B incremental recovery quantified.
-`Python` `SQL` `SciPy` `Tableau` → [View Project](https://github.com/shubham9616/collections-strategy-engine)
+### Founder OS: Revenue Engine
+A simulation of how a Founder's Office operator diagnoses funnel leakage, prioritizes fixes by leverage, and turns messy revenue data into a decision-ready narrative. Built to answer the question every early-stage founder is actually asking: where are we losing revenue, and what should we fix first?
+**Stack:** Python, Funnel Analysis, Prioritization Frameworks  
+→ [View Project](https://github.com/shubham1502-hue/founder-os-revenue-engine)
 
-**Fintech Transaction Monitoring System**
-Built an end-to-end payments ops system that tracks GMV, detects anomalies, and scores customer risk across 50K+ transactions. Designed for a founder who needs to know when something is wrong before the customer does.
-`Python` `SQL` `Tableau` → [View Project](https://github.com/shubham9616/fintech-transaction-analytics-monitoring-system)
+### Startup Metrics Playbook
+A practical reference for 20 startup metrics that matter most at early-stage companies — each with definition, formula, SQL logic, and what “good” looks like. Built for founders, operators, and Founder's Office candidates who need to speak the language of company health fluently.
+**Stack:** Markdown, SQL, Metrics Design  
+→ [View Project](https://github.com/shubham1502-hue/startup-metrics-playbook)
 
-**Private Markets Fundraising Intelligence**
-Parsed 5,000 real SEC Form D filings via the EDGAR API to surface fundraising velocity, investor concentration, and deal flow patterns across private markets. 92.96% data quality rate across 12 analytical SQL queries. The kind of signal work a founder or investor actually uses.
-`Python` `MySQL` `Tableau` → [View Project](https://github.com/shubham9616/private-markets-form-d-analytics)
+### India Q-Comm Market Sizing — Vegan Meat
+A bottom-up market sizing model built the way a founder would actually use it: 75M active q-commerce users → 2.8M addressable buyers → ₹627Cr addressable GMV in 2024. A first-principles market thesis, not a copy-paste industry report.
+**Stack:** Python, Jupyter, Market Sizing  
+→ [View Project](https://github.com/shubham1502-hue/india-qcomm-market-analysis)
 
-**India Q-Comm Market Sizing — Vegan Meat**
-Bottom-up TAM model built the way a founder needs it: 75M active q-comm users → 2.8M addressable buyers → ₹627Cr addressable GMV in 2024. First-principles sizing before a category bet, not after.
-`Python` `Jupyter` → [View Project](https://github.com/shubham9616/india-qcomm-market-analysis)
-
-**Operations KPI Automation**
-Replaced manual reporting with self-serve dashboards tracking SLA compliance, backlog accumulation, and breach detection across 80K ticket lifecycles. The kind of system that gives a founder five hours back per week per team.
-`Python` `Pandas` `Tableau` → [View Project](https://github.com/shubham9616/operations-kpi-automation)
-
----
+### Founder Outreach Tracker
+A lightweight outreach operating system built in Make + Google Sheets to manage founder conversations, follow-up timing, and response tracking during my own Founder's Office search. Built because I needed the system before anyone asked for it.
+**Stack:** Make.com, Google Sheets, Workflow Design  
+→ [View Project](https://github.com/shubham1502-hue/founder-outreach-tracker)
 
 ## How I Operate
 
-I don't wait for a data request. I find the question worth asking, build the answer, and put it in front of the right person in a format they can act on.
+- I don’t wait for a brief — I find the bottleneck, define the question, and build the system.
+- I like ambiguous environments where the answer doesn’t exist yet and speed matters.
+- I’m strongest when a founder needs structure: metrics, process, prioritization, reporting, or cross-functional execution.
 
-Technically: SQL (CTEs, window functions, cohort and funnel analysis), Python (Pandas, ETL, A/B simulation, anomaly detection), Tableau, Zoho CRM, Make.com, API and webhook integrations.
-
----
+**Tools:** SQL, Python, Tableau, Zoho CRM, Zoho Books, Make.com, APIs, webhooks, funnel analysis, cohort analysis, workflow automation.
 
 ## What I'm Looking For
 
-**Founder's Office or BizOps roles at early-stage startups** — where the problem set is ambiguous, the pace is fast, and the work actually matters to the company's survival.
+Founder's Office roles at early-stage startups where the work sits close to the founder and directly affects how the company scales.
 
-📍 Open to Bengaluru. Open to relocation for the right role.
-
-🔗 [linkedin.com/in/shubham9616](https://linkedin.com/in/shubham9616)
-✉️ shubham1502@gmail.com
+Open to relocation  
+🔗 [LinkedIn](https://linkedin.com/in/shubham9616)  
+✉️ [shubham1502@gmail.com](mailto:shubham1502@gmail.com)
