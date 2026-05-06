@@ -24,6 +24,12 @@ Most GitHub profiles show projects. This profile is built as a founder/operator 
 
 ## Founder OS Toolkit
 
+### Flagship
+
+| Repo | What It Helps With | When To Fork |
+|---|---|---|
+| [Founder OS](https://github.com/shubham1502-hue/founder-os) | Umbrella operating system for weekly reviews, GTM, RevOps, investor updates, outreach, and startup metrics. | You want the whole founder-facing operating toolkit in one place. |
+
 ### Raise, Report, and Run the Weekly Cadence
 
 | Repo | What It Helps With | When To Fork |
@@ -63,14 +69,16 @@ Most GitHub profiles show projects. This profile is built as a founder/operator 
 
 If you are a founder, start with:
 
-1. [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent)
-2. [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent)
-3. [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center)
-4. [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
-5. [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation)
-6. [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine)
+1. [Founder OS](https://github.com/shubham1502-hue/founder-os)
+2. [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent)
+3. [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent)
+4. [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center)
+5. [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
+6. [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation)
 
 For the deeper portfolio narrative and DM positioning logic, see [GitHub Profile Strategy](docs/github-profile-strategy.md).
+
+For LinkedIn positioning, headline, About, Featured, and self-employed experience copy, see [LinkedIn Profile Playbook](docs/linkedin-profile-playbook.md).
 
 ## How I Operate
 
