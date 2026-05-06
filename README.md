@@ -1,90 +1,86 @@
 # Shubham Singh
 
-I help founders move faster by building the operating systems they wish already existed.
+I build forkable operating systems for founders: GTM workflows, RevOps infrastructure, board packs, weekly operating reviews, financial models, analytics pipelines, and execution templates that reduce manual founder work.
 
-Founder's Office / startup operator with 14 months inside a founder-led startup, building RevOps infrastructure, decision-making systems, and cross-functional workflows from zero. I work at the intersection of strategy, operations, analytics, and execution: not just reporting what happened, but building the system that helps leadership decide what to do next.
+Founder Office / startup operator with 14 months inside a founder-led startup, building RevOps infrastructure, decision systems, and cross-functional workflows from zero. I work at the intersection of strategy, operations, analytics, and execution.
 
-At STEMpedia, I built the Zoho-based revenue operations stack from scratch across CRM, Books, reporting, and team handoffs. That included pipeline design, stage-based automations, lead capture from events and webforms, Books-to-CRM reconciliation, and weekly CEO reporting. The result: a 15% reduction in sales cycle time, a 5 percentage point improvement in conversion, and roughly 15 hours per week of manual work eliminated across Sales, Ops, and Service Delivery.
+At STEMpedia, I built the Zoho-based revenue operations stack from scratch across CRM, Books, reporting, and team handoffs. That included pipeline design, stage-based automations, event and webform lead capture, Books-to-CRM reconciliation, and weekly CEO reporting. Result: 15% shorter sales cycle, 5 percentage point conversion improvement, and roughly 15 hours per week of manual work removed across Sales, Ops, and Service Delivery.
 
 ## Problem This Solves
 
-Most GitHub profiles show projects. I want mine to be more useful than that: a founder/operator toolkit someone can fork when they need GTM, RevOps, metrics, market sizing, financial modeling, or operating dashboards built quickly.
+Most GitHub profiles show projects. This profile is built as a founder/operator toolkit: repos a founder can fork when they need a practical operating layer quickly, and evidence a startup can use to judge how I think and execute.
 
 ## How It Helps
 
-- Founders can fork the repos directly and adapt the templates, scripts, models, dashboards, and playbooks to their own company.
-- Hiring managers can see how I think: define the business problem, build the operating layer, document the trade-offs, and make the output usable.
-- Operators can use the repos as starting points instead of rebuilding common startup workflows from scratch.
+- Founders can fork the repos directly and adapt the templates, scripts, dashboards, models, and playbooks.
+- Hiring managers can see my operating style: define the problem, structure the workflow, build the system, and make the output usable.
+- Operators can avoid rebuilding common startup workflows from scratch.
 
 ## When To Fork This
 
 - Fork the profile repo if you want a founder-facing GitHub profile structure for your own operator portfolio.
-- Fork the individual projects if you need a practical starting point for GTM, RevOps, analytics, financial modeling, market intelligence, or workflow automation.
-- Start with the repos below; each README now explains the problem solved, how it helps, and when to fork it.
+- Fork the individual projects if you need GTM, RevOps, metrics, market sizing, financial modeling, reporting, or workflow automation.
+- Start with the toolkit below; every repo explains what problem it solves, how it helps, and when to fork it.
 
-## Founder Toolkits To Fork
+## Founder OS Toolkit
 
-### AI GTM Command Center
-A Python workflow that turns a target-account CSV into account research, ICP fit scoring, pain hypotheses, founder-call talk tracks, cold email drafts, follow-ups, and optional Google Sheets sync.
+### Raise, Report, and Run the Weekly Cadence
 
-**Use it when:** founder-led GTM is scattered across tabs, notes, and manual follow-ups.  
-**Stack:** Python, Gemini/Groq optional, Google Sheets optional  
--> [View Project](https://github.com/shubham1502-hue/ai-gtm-command-center)
+| Repo | What It Helps With | When To Fork |
+|---|---|---|
+| [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | Turns weekly metrics into a CEO review, investor-safe update, team asks, risks, and next-week plan. | Your weekly review is still scattered across sheets, Slack, and founder memory. |
+| [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Generates board packs, investor updates, charts, risks, and decision lists from startup metrics. | You have metrics but the narrative still takes hours. |
+| [Startup Metrics Playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Defines 20 startup metrics with formulas, SQL logic, benchmarks, and traps. | Your team needs a clean metric dictionary before building dashboards. |
 
-### RevOps Infrastructure Playbook
-A full operating-system repo based on the RevOps stack I built in production: Zoho CRM, Zoho Books, automations, approval flows, cross-team handoffs, revenue reconciliation, and weekly CEO reporting.
+### Grow Revenue and Founder-Led GTM
 
-**Use it when:** leads, deals, invoices, and CEO reporting are fragmented across spreadsheets and tools.  
-**Stack:** Zoho CRM, Zoho Books, Make.com, Deluge, SQL  
--> [View Project](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
+| Repo | What It Helps With | When To Fork |
+|---|---|---|
+| [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Converts target accounts into ICP scoring, pain hypotheses, cold emails, follow-ups, and founder-call briefs. | Founder-led GTM is spread across tabs, notes, and manual follow-ups. |
+| [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Finds funnel leaks, prioritizes revenue actions, and drafts investor-facing updates. | You need to move from dashboard to execution. |
+| [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Documents CRM fields, Zoho flows, handoffs, revenue reconciliation, and CEO reporting. | Leads, deals, invoices, and weekly reporting are fragmented. |
+| [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Lightweight relationship CRM with Google Sheets, Gmail, and Make-style automation. | A full CRM is too heavy but follow-ups are slipping. |
 
-### Startup Metrics Playbook
-A practical reference for 20 startup metrics that matter most at early-stage companies, with definitions, formulas, SQL logic, benchmarks, and common traps.
+### Manage Operations and Risk
 
-**Use it when:** the team needs a clean metric dictionary before building a dashboard or board report.  
-**Stack:** Markdown, SQL, metrics design  
--> [View Project](https://github.com/shubham1502-hue/startup-metrics-playbook)
+| Repo | What It Helps With | When To Fork |
+|---|---|---|
+| [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) | Tracks SLA compliance, backlog, breach drivers, and team scorecards. | Support, onboarding, or ops queues need daily visibility. |
+| [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine) | Tests segmented collections outreach against flat outreach. | Lending, BNPL, or collections teams need recovery lift analysis. |
+| [Payments Monitoring & Fraud Detection](https://github.com/shubham1502-hue/payments-monitoring-fraud-detection) | Detects payment spikes, failures, geo-velocity signals, and customer risk. | A payments team needs a local first monitoring layer. |
+| [Payments Business Management](https://github.com/shubham1502-hue/payments-business-management) | Produces merchant KPI reports, regional views, SLA alerts, and executive summaries. | Payments leadership needs a monthly operating pack. |
 
-### Founder Outreach Tracker
-A lightweight relationship CRM built with Make, Google Sheets, and Gmail reminders to manage founder, investor, partner, candidate, or job-search outreach.
+### Model Decisions Before They Become Expensive
 
-**Use it when:** a full CRM is too heavy but manual follow-up tracking is breaking down.  
-**Stack:** Make.com, Google Sheets, Gmail  
--> [View Project](https://github.com/shubham1502-hue/founder-outreach-tracker)
+| Repo | What It Helps With | When To Fork |
+|---|---|---|
+| [EdTech SaaS Financial Model](https://github.com/shubham1502-hue/edtech-saas-financial-model) | 3-year SaaS model for revenue, unit economics, P&L, burn, and runway. | You need to connect growth assumptions to cash and fundraising. |
+| [D2C Pricing Strategy Framework](https://github.com/shubham1502-hue/d2c-pricing-strategy-decision-framework) | Compares pricing options across conversion, retention, LTV, CAC payback, and revenue. | Your team is debating growth pricing vs premium pricing. |
+| [India Q-Comm Market Analysis](https://github.com/shubham1502-hue/india-qcomm-market-analysis) | Bottom-up market sizing for a category wedge. | You need reachable buyer logic, not a vague TAM slide. |
+| [Private Markets Form D Analytics](https://github.com/shubham1502-hue/private-markets-form-d-analytics) | Form D fundraising analytics with quality checks and Tableau-ready outputs. | You need private-market fundraising signal from public filings. |
 
-### EdTech SaaS Financial Model
-A 3-year bottom-up SaaS model covering revenue build-up, unit economics, P&L, burn, and runway.
+## Best Repos To Start With
 
-**Use it when:** a founder needs to connect growth assumptions to cash, hiring, pricing, and fundraising decisions.  
-**Stack:** Excel financial model  
--> [View Project](https://github.com/shubham1502-hue/edtech-saas-financial-model)
+If you are a founder, start with:
 
-### Collections Strategy Engine
-A Python A/B testing engine for comparing flat collections outreach with segmented channel, timing, risk, and offer logic.
-
-**Use it when:** a lending, BNPL, or collections team wants to quantify whether smarter contact strategy improves recovery.  
-**Stack:** Python, Pandas, SciPy, SQL, Tableau  
--> [View Project](https://github.com/shubham1502-hue/collections-strategy-engine)
-
-### India Q-Comm Market Sizing
-A bottom-up market sizing model for vegan meat on Indian quick commerce, built from buyer funnel assumptions instead of broad category TAM.
-
-**Use it when:** a founder needs a sharp market wedge and assumption-backed sizing model.  
-**Stack:** Python, Jupyter, market sizing  
--> [View Project](https://github.com/shubham1502-hue/india-qcomm-market-analysis)
+1. [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent)
+2. [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent)
+3. [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center)
+4. [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
+5. [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation)
+6. [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine)
 
 ## How I Operate
 
-- I do not wait for a brief; I find the bottleneck, define the question, and build the system.
+- I do not wait for a perfect brief; I find the bottleneck, define the question, and build the operating layer.
 - I like ambiguous environments where the answer does not exist yet and speed matters.
 - I am strongest when a founder needs structure: metrics, process, prioritization, reporting, or cross-functional execution.
 
-**Tools:** SQL, Python, Tableau, Zoho CRM, Zoho Books, Make.com, APIs, webhooks, funnel analysis, cohort analysis, workflow automation.
+Tools: SQL, Python, Tableau, Zoho CRM, Zoho Books, Make.com, APIs, webhooks, funnel analysis, cohort analysis, workflow automation.
 
 ## What I Am Looking For
 
-Founder's Office roles at early-stage startups where the work sits close to the founder and directly affects how the company scales.
+Founder Office roles at early-stage startups where the work sits close to the founder and directly affects how the company scales.
 
-Open to relocation  
 [LinkedIn](https://linkedin.com/in/shubham9616)  
 [Email](mailto:shubham1502@gmail.com)
