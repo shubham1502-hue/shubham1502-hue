@@ -70,6 +70,8 @@ If you are a founder, start with:
 5. [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation)
 6. [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine)
 
+For the deeper portfolio narrative and DM positioning logic, see [GitHub Profile Strategy](docs/github-profile-strategy.md).
+
 ## How I Operate
 
 - I do not wait for a perfect brief; I find the bottleneck, define the question, and build the operating layer.
