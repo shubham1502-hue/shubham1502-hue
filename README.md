@@ -2,7 +2,7 @@
 
 I build founder-facing operating systems for early-stage startups.
 
-My GitHub is organized around practical systems a founder or operator can adapt: GTM workflows, revenue diagnosis, startup metrics, board and investor updates, outreach infrastructure, payments business management, fintech transaction reliability, ops KPI automation, and climate-tech operations.
+My GitHub is organized around practical systems a founder or operator can adapt: AI workflow ROI, GTM workflows, revenue diagnosis, startup metrics, board and investor updates, outreach infrastructure, payments business management, fintech transaction reliability, ops KPI automation, and climate-tech operations.
 
 The common pattern: diagnose the bottleneck, structure the workflow, build the system, and make it reusable.
 
@@ -11,6 +11,7 @@ The common pattern: diagnose the bottleneck, structure the workflow, build the s
 | Repo | Start here if you need... |
 | --- | --- |
 | [Founder OS](https://github.com/shubham1502-hue/founder-os) | A central operating system for founder cadence, GTM, metrics, reporting, outreach, and execution. |
+| [Founder AI Workflow ROI OS](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | A company-wide AI leverage system that helps founders rank workflows by ROI, payback, risk, and hire-vs-automate decisions. |
 | [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | A founder-led GTM workflow for ICP scoring, account research, outreach, and call preparation. |
 | [Founder-Led Sales Call OS](https://github.com/shubham1502-hue/founder-led-sales-call-os) | A post-call intelligence system that turns messy founder sales calls into objection patterns, deal rescue priorities, weekly sales learning, and GTM narrative experiments. |
 | [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | A reusable board and investor update workflow from metrics to narrative. |
@@ -59,6 +60,7 @@ Some are based on real RevOps and founder-facing work. Some use synthetic or sim
 
 | Repo | Problem It Solves | Use It When |
 | --- | --- | --- |
+| [Founder AI Workflow ROI OS](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI experiments drift when founders do not know which workflows justify automation, hiring, outsourcing, or staying manual. | You need to rank workflows by ROI, payback, risk, and hire-vs-automate decisions. |
 | [Rice Carbon Ops](https://github.com/shubham1502-hue/rice-carbon-ops) | Climate-tech field operations lose control when MRV, AWD adoption risk, partner data quality, and verification lag are scattered. | You need a climate-tech operations command center for carbon-credit MRV and field execution. |
 | [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) | Service teams lose execution visibility when SLA breaches, backlog growth, breach drivers, and ownership gaps sit in manual reports. | You need an ops KPI command center for weekly service delivery review. |
 
