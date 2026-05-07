@@ -6,6 +6,8 @@ This GitHub is a modular Founder OS library for founders, Founder's Office candi
 
 ## Start here
 
+Choose by operating problem, not by repo name. In 60 seconds, pick the row that matches the decision you need to make this week.
+
 | If you need... | Start with | What it gives you |
 | --- | --- | --- |
 | Full founder operating system | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map, weekly cadence templates, and the entry point into the Founder OS library. |
@@ -32,6 +34,17 @@ Founder OS
 - RevOps infrastructure: [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
 - Metrics definitions: [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook)
 - Founder outreach: [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker)
+
+## Choosing between similar repos
+
+| If the problem is... | Use this | Not this |
+| --- | --- | --- |
+| Finding accounts and preparing outreach before a call | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | `founder-led-sales-call-os`, which starts after calls happen. |
+| Learning from sales calls and rescuing deals | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | `ai-gtm-command-center`, which prepares pre-call research. |
+| Diagnosing weekly funnel leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | `revops-infrastructure-playbook`, which designs the CRM and reporting system. |
+| Running the weekly founder review | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | `board-pack-investor-update-agent`, which is for board and investor reporting. |
+| Managing a payments business | [payments-business-management](https://github.com/shubham1502-hue/payments-business-management) | `fintech-transaction-analytics-monitoring-system`, which diagnoses transaction reliability. |
+| Monitoring transaction reliability or fraud-style anomalies | [fintech-transaction-analytics-monitoring-system](https://github.com/shubham1502-hue/fintech-transaction-analytics-monitoring-system) or [payments-monitoring-fraud-detection](https://github.com/shubham1502-hue/payments-monitoring-fraud-detection) | `payments-business-management`, which is a business review pack. |
 
 ## Repo categories
 
