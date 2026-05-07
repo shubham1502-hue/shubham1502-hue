@@ -12,6 +12,7 @@ The common pattern: diagnose the bottleneck, structure the workflow, build the s
 | --- | --- |
 | [Founder OS](https://github.com/shubham1502-hue/founder-os) | A central operating system for founder cadence, GTM, metrics, reporting, outreach, and execution. |
 | [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | A founder-led GTM workflow for ICP scoring, account research, outreach, and call preparation. |
+| [Founder-Led Sales Call OS](https://github.com/shubham1502-hue/founder-led-sales-call-os) | A post-call intelligence system that turns messy founder sales calls into objection patterns, deal rescue priorities, weekly sales learning, and GTM narrative experiments. |
 | [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | A reusable board and investor update workflow from metrics to narrative. |
 | [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | A weekly revenue diagnosis loop for funnel leakage, bottlenecks, and founder actions. |
 | [Payments Business Management](https://github.com/shubham1502-hue/payments-business-management) | A payments business management pack for merchant KPIs, variance, SLA risk, and executive reporting. |
@@ -34,6 +35,7 @@ Some are based on real RevOps and founder-facing work. Some use synthetic or sim
 | Repo | Problem It Solves | Use It When |
 | --- | --- | --- |
 | [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM breaks when account research, ICP fit, messaging, and follow-up live in separate tools. | You need to turn target accounts into outreach, follow-ups, and founder-call briefs. |
+| [Founder-Led Sales Call OS](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales learning gets lost when call notes, objections, deal risks, and follow-ups stay scattered after founder-led calls. | You need to turn actual sales conversations into objection patterns, rescue priorities, weekly learning, and narrative experiments. |
 | [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Early-stage teams lose revenue when pipeline movement, funnel leakage, and weekly action ownership are unclear. | You need to diagnose revenue leakage and convert funnel signals into weekly founder actions. |
 | [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Warm founder outreach and relationship follow-up slip when tracking is too manual or CRM-heavy. | You need a lightweight founder/operator outreach system before adopting a full CRM. |
 | [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Leads, CRM stages, handoffs, invoicing, and reporting drift without a clear RevOps backbone. | You need to design or repair the operating layer behind revenue workflows. |
