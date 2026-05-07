@@ -6,6 +6,18 @@ Founder Office / startup operator with 14 months inside a founder-led startup, b
 
 At STEMpedia, I built the Zoho-based revenue operations stack from scratch across CRM, Books, reporting, and team handoffs. That included pipeline design, stage-based automations, event and webform lead capture, Books-to-CRM reconciliation, and weekly CEO reporting. Result: 15% shorter sales cycle, 5 percentage point conversion improvement, and roughly 15 hours per week of manual work removed across Sales, Ops, and Service Delivery.
 
+## Start Here Based On Your Startup Problem
+
+| If you are dealing with... | Start with this |
+|---|---|
+| Messy weekly reviews | [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
+| Founder-led GTM chaos | [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) |
+| Investor update pressure | [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+| CRM and handoff leakage | [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) |
+| Unclear startup metrics | [Startup Metrics Playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
+| Ops backlog and SLA issues | [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) |
+| Founder outreach tracking | [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) |
+
 ## Problem This Solves
 
 Most GitHub profiles show projects. This profile is built as a founder/operator toolkit: repos a founder can fork when they need a practical operating layer quickly, and evidence a startup can use to judge how I think and execute.
