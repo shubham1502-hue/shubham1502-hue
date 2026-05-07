@@ -1,108 +1,83 @@
 # Shubham Singh
 
-I build forkable operating systems for founders: GTM workflows, RevOps infrastructure, board packs, weekly operating reviews, financial models, analytics pipelines, and execution templates that reduce manual founder work.
+I build founder-facing operating systems for early-stage startups.
 
-Founder Office / startup operator with 14 months inside a founder-led startup, building RevOps infrastructure, decision systems, and cross-functional workflows from zero. I work at the intersection of strategy, operations, analytics, and execution.
+My GitHub is organized around practical systems a founder or operator can adapt: GTM workflows, revenue diagnosis, startup metrics, board and investor updates, outreach infrastructure, payments business management, fintech transaction reliability, ops KPI automation, and climate-tech operations.
 
-At STEMpedia, I built the Zoho-based revenue operations stack from scratch across CRM, Books, reporting, and team handoffs. That included pipeline design, stage-based automations, event and webform lead capture, Books-to-CRM reconciliation, and weekly CEO reporting. Result: 15% shorter sales cycle, 5 percentage point conversion improvement, and roughly 15 hours per week of manual work removed across Sales, Ops, and Service Delivery.
+The common pattern: diagnose the bottleneck, structure the workflow, build the system, and make it reusable.
 
-## Start Here Based On Your Startup Problem
+## Best repos to start with
 
-| If you are dealing with... | Start with this |
-|---|---|
-| Messy weekly reviews | [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
-| Founder-led GTM chaos | [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) |
-| Investor update pressure | [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
-| CRM and handoff leakage | [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) |
-| Unclear startup metrics | [Startup Metrics Playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
-| Ops backlog and SLA issues | [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) |
-| Founder outreach tracking | [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) |
+| Repo | Start here if you need... |
+| --- | --- |
+| [Founder OS](https://github.com/shubham1502-hue/founder-os) | A central operating system for founder cadence, GTM, metrics, reporting, outreach, and execution. |
+| [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | A founder-led GTM workflow for ICP scoring, account research, outreach, and call preparation. |
+| [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | A reusable board and investor update workflow from metrics to narrative. |
+| [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | A weekly revenue diagnosis loop for funnel leakage, bottlenecks, and founder actions. |
+| [Payments Business Management](https://github.com/shubham1502-hue/payments-business-management) | A payments business management pack for merchant KPIs, variance, SLA risk, and executive reporting. |
+| [Rice Carbon Ops](https://github.com/shubham1502-hue/rice-carbon-ops) | A climate-tech operations command center for MRV, field execution, partner quality, and verification lag. |
 
-## Problem This Solves
+## How to read this GitHub
 
-Most GitHub profiles show projects. This profile is built as a founder/operator toolkit: repos a founder can fork when they need a practical operating layer quickly, and evidence a startup can use to judge how I think and execute.
+These repos are reusable operating systems, not isolated demos.
 
-## How It Helps
+Some are based on real RevOps and founder-facing work. Some use synthetic or simulated data so the operating judgment can be shown safely without exposing private company information. Across the portfolio, the operating motion is consistent: find the bottleneck, define the workflow, build the reporting or automation layer, and make the output useful for a founder, operator, or small team.
 
-- Founders can fork the repos directly and adapt the templates, scripts, dashboards, models, and playbooks.
-- Hiring managers can see my operating style: define the problem, structure the workflow, build the system, and make the output usable.
-- Operators can avoid rebuilding common startup workflows from scratch.
+## Flagship Founder OS
 
-## When To Fork This
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [Founder OS](https://github.com/shubham1502-hue/founder-os) | Founder work gets scattered across metrics, GTM, investor updates, outreach, and weekly execution. | You want the full founder-facing operating toolkit in one place. |
 
-- Fork the profile repo if you want a founder-facing GitHub profile structure for your own operator portfolio.
-- Fork the individual projects if you need GTM, RevOps, metrics, market sizing, financial modeling, reporting, or workflow automation.
-- Start with the toolkit below; every repo explains what problem it solves, how it helps, and when to fork it.
+## GTM and Revenue Systems
 
-## Founder OS Toolkit
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM breaks when account research, ICP fit, messaging, and follow-up live in separate tools. | You need to turn target accounts into outreach, follow-ups, and founder-call briefs. |
+| [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Early-stage teams lose revenue when pipeline movement, funnel leakage, and weekly action ownership are unclear. | You need to diagnose revenue leakage and convert funnel signals into weekly founder actions. |
+| [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Warm founder outreach and relationship follow-up slip when tracking is too manual or CRM-heavy. | You need a lightweight founder/operator outreach system before adopting a full CRM. |
+| [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Leads, CRM stages, handoffs, invoicing, and reporting drift without a clear RevOps backbone. | You need to design or repair the operating layer behind revenue workflows. |
 
-### Flagship
+## Board, Investor, and Metrics Systems
 
-| Repo | What It Helps With | When To Fork |
-|---|---|---|
-| [Founder OS](https://github.com/shubham1502-hue/founder-os) | Umbrella operating system for weekly reviews, GTM, RevOps, investor updates, outreach, and startup metrics. | You want the whole founder-facing operating toolkit in one place. |
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Investor and board updates take too long when metrics, risks, asks, and narrative are not connected. | You need to turn startup metrics into a board pack or investor-safe update. |
+| [Startup Metrics Playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Teams argue over metrics when definitions, formulas, SQL logic, and traps are not documented. | You need a practical startup metrics dictionary before building dashboards or reporting cadence. |
 
-### Raise, Report, and Run the Weekly Cadence
+## Fintech and Payments Operating Systems
 
-| Repo | What It Helps With | When To Fork |
-|---|---|---|
-| [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | Turns weekly metrics into a CEO review, investor-safe update, team asks, risks, and next-week plan. | Your weekly review is still scattered across sheets, Slack, and founder memory. |
-| [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Generates board packs, investor updates, charts, risks, and decision lists from startup metrics. | You have metrics but the narrative still takes hours. |
-| [Startup Metrics Playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Defines 20 startup metrics with formulas, SQL logic, benchmarks, and traps. | Your team needs a clean metric dictionary before building dashboards. |
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [Payments Business Management](https://github.com/shubham1502-hue/payments-business-management) | Payments leaders lose visibility when revenue, cost, merchant health, chargebacks, SLA risk, budget variance, and regional performance sit in disconnected reports. | You need a monthly payments management pack for founders, payments leads, and business operators. |
+| [Fintech Transaction Monitoring System](https://github.com/shubham1502-hue/fintech-transaction-analytics-monitoring-system) | Product and data teams lose failed GMV and user trust when transaction failures, bank variance, merchant concentration, and risk signals are not visible quickly. | You need transaction-level reliability diagnostics, SQL investigation, and Tableau monitoring. |
+| [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine) | Collections teams use flat outreach when borrowers need segmented strategy by risk, balance, and response behavior. | You need to compare segmented collections actions against a generic recovery approach. |
 
-### Grow Revenue and Founder-Led GTM
+## Operations and Execution Analytics
 
-| Repo | What It Helps With | When To Fork |
-|---|---|---|
-| [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Converts target accounts into ICP scoring, pain hypotheses, cold emails, follow-ups, and founder-call briefs. | Founder-led GTM is spread across tabs, notes, and manual follow-ups. |
-| [Founder OS Revenue Engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Finds funnel leaks, prioritizes revenue actions, and drafts investor-facing updates. | You need to move from dashboard to execution. |
-| [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Documents CRM fields, Zoho flows, handoffs, revenue reconciliation, and CEO reporting. | Leads, deals, invoices, and weekly reporting are fragmented. |
-| [Founder Outreach Tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Lightweight relationship CRM with Google Sheets, Gmail, and Make-style automation. | A full CRM is too heavy but follow-ups are slipping. |
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [Rice Carbon Ops](https://github.com/shubham1502-hue/rice-carbon-ops) | Climate-tech field operations lose control when MRV, AWD adoption risk, partner data quality, and verification lag are scattered. | You need a climate-tech operations command center for carbon-credit MRV and field execution. |
+| [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) | Service teams lose execution visibility when SLA breaches, backlog growth, breach drivers, and ownership gaps sit in manual reports. | You need an ops KPI command center for weekly service delivery review. |
 
-### Manage Operations and Risk
+## Strategy, Market, and Financial Models
 
-| Repo | What It Helps With | When To Fork |
-|---|---|---|
-| [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation) | Tracks SLA compliance, backlog, breach drivers, and team scorecards. | Support, onboarding, or ops queues need daily visibility. |
-| [Collections Strategy Engine](https://github.com/shubham1502-hue/collections-strategy-engine) | Tests segmented collections outreach against flat outreach. | Lending, BNPL, or collections teams need recovery lift analysis. |
-| [Payments Monitoring & Fraud Detection](https://github.com/shubham1502-hue/payments-monitoring-fraud-detection) | Detects payment spikes, failures, geo-velocity signals, and customer risk. | A payments team needs a local first monitoring layer. |
-| [Payments Business Management](https://github.com/shubham1502-hue/payments-business-management) | Produces merchant KPI reports, regional views, SLA alerts, and executive summaries. | Payments leadership needs a monthly operating pack. |
-
-### Model Decisions Before They Become Expensive
-
-| Repo | What It Helps With | When To Fork |
-|---|---|---|
-| [EdTech SaaS Financial Model](https://github.com/shubham1502-hue/edtech-saas-financial-model) | 3-year SaaS model for revenue, unit economics, P&L, burn, and runway. | You need to connect growth assumptions to cash and fundraising. |
-| [D2C Pricing Strategy Framework](https://github.com/shubham1502-hue/d2c-pricing-strategy-decision-framework) | Compares pricing options across conversion, retention, LTV, CAC payback, and revenue. | Your team is debating growth pricing vs premium pricing. |
-| [India Q-Comm Market Analysis](https://github.com/shubham1502-hue/india-qcomm-market-analysis) | Bottom-up market sizing for a category wedge. | You need reachable buyer logic, not a vague TAM slide. |
-| [Private Markets Form D Analytics](https://github.com/shubham1502-hue/private-markets-form-d-analytics) | Form D fundraising analytics with quality checks and Tableau-ready outputs. | You need private-market fundraising signal from public filings. |
-
-## Best Repos To Start With
-
-If you are a founder, start with:
-
-1. [Founder OS](https://github.com/shubham1502-hue/founder-os)
-2. [Founder Weekly Operating Review Agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent)
-3. [Board Pack / Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent)
-4. [AI GTM Command Center](https://github.com/shubham1502-hue/ai-gtm-command-center)
-5. [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
-6. [Operations KPI Automation](https://github.com/shubham1502-hue/operations-kpi-automation)
-
-For the deeper portfolio narrative and DM positioning logic, see [GitHub Profile Strategy](docs/github-profile-strategy.md).
-
-For LinkedIn positioning, headline, About, Featured, and self-employed experience copy, see [LinkedIn Profile Playbook](docs/linkedin-profile-playbook.md).
+| Repo | Problem It Solves | Use It When |
+| --- | --- | --- |
+| [EdTech SaaS Financial Model](https://github.com/shubham1502-hue/edtech-saas-financial-model) | Growth plans stay vague when revenue, unit economics, burn, runway, and fundraising assumptions are not connected. | You need a financial model that links operating assumptions to runway and decision-making. |
+| [Private Markets Form D Analytics](https://github.com/shubham1502-hue/private-markets-form-d-analytics) | Private-market fundraising signals are hard to use when Form D filings are messy and unstructured. | You need fundraising analytics, quality checks, and Tableau-ready outputs from public filings. |
+| [India Q-Comm Market Analysis](https://github.com/shubham1502-hue/india-qcomm-market-analysis) | Market sizing gets hand-wavy when TAM logic is not tied to buyer behavior, channel reality, and operating constraints. | You need a structured market analysis for category strategy or investor narrative. |
 
 ## How I Operate
 
-- I do not wait for a perfect brief; I find the bottleneck, define the question, and build the operating layer.
-- I like ambiguous environments where the answer does not exist yet and speed matters.
-- I am strongest when a founder needs structure: metrics, process, prioritization, reporting, or cross-functional execution.
+- Start with the founder or operator decision, not the dashboard.
+- Define the bottleneck, the owner, the cadence, and the output.
+- Build small systems that can be reused by a team without heavy process overhead.
+- Prefer practical reporting, workflow automation, and decision support over static analysis.
 
-Tools: SQL, Python, Tableau, Zoho CRM, Zoho Books, Make.com, APIs, webhooks, funnel analysis, cohort analysis, workflow automation.
+Tools I use across the portfolio: SQL, Python, Tableau, spreadsheets, CRM workflows, automation tools, APIs, RevOps systems, and founder-facing reporting.
 
-## What I Am Looking For
-
-Founder Office roles at early-stage startups where the work sits close to the founder and directly affects how the company scales.
+## Contact
 
 [LinkedIn](https://linkedin.com/in/shubham9616)  
 [Email](mailto:shubham1502@gmail.com)
