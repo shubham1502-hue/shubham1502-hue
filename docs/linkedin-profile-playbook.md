@@ -26,25 +26,25 @@ Use one of these.
 Best:
 
 ```text
-Building founder-facing operating systems for early-stage startups | Founder’s Office, RevOps & GTM Systems | Ex-STEMpedia
+Building founder-facing operating systems for early-stage startups | Founder's Office, RevOps & GTM Systems | Ex-STEMpedia
 ```
 
 More direct:
 
 ```text
-Founder’s Office & RevOps Operator | Building reusable systems for GTM, metrics, investor updates and startup execution
+Founder's Office & RevOps Operator | Building reusable systems for GTM, metrics, investor updates and startup execution
 ```
 
 If you want to keep the job-search signal:
 
 ```text
-Founder’s Office & RevOps Operator | Building founder-facing operating systems | Open to early-stage startup roles
+Founder's Office & RevOps Operator | Building founder-facing operating systems | Open to early-stage startup roles
 ```
 
 Avoid:
 
 ```text
-Looking for Founder’s Office/adjacent roles
+Looking for Founder's Office/adjacent roles
 ```
 
 It makes the profile feel applicant-led. Lead with the value, not the ask.
@@ -54,7 +54,7 @@ It makes the profile feel applicant-led. Lead with the value, not the ask.
 ```text
 I build founder-facing operating systems for early-stage startups.
 
-My work sits at the intersection of Founder’s Office, RevOps, GTM systems, startup metrics, and AI-native operating workflows.
+My work sits at the intersection of Founder's Office, RevOps, GTM systems, startup metrics, and AI-native operating workflows.
 
 At STEMpedia, I was the primary analytical resource to the CEO for 14 months. I built RevOps infrastructure from scratch across CRM, Zoho Books, reporting, automations, handoffs, and weekly CEO visibility.
 
@@ -63,7 +63,7 @@ Impact:
 • 5 percentage point improvement in conversion
 • ~15 hours/week of manual coordination removed across Sales, Ops, and Service Delivery
 
-Outside work, I am building a public library of open-source operating systems for founders and Founder’s Office teams:
+Outside work, I am building a public library of open-source operating systems for founders and Founder's Office teams:
 • Founder Weekly Operating Review Agent
 • Board Pack / Investor Update Agent
 • AI GTM Command Center
@@ -75,7 +75,7 @@ The thesis is simple: early-stage startups do not just need dashboards. They nee
 
 GitHub: github.com/shubham1502-hue
 
-I am looking for Founder’s Office / BizOps / RevOps roles at early-stage startups where operations directly affect growth, execution, and survival.
+I am looking for Founder's Office / BizOps / RevOps roles at early-stage startups where operations directly affect growth, execution, and survival.
 ```
 
 ## Self-Employed Experience Section
@@ -115,7 +115,7 @@ Bengaluru, Karnataka, India · Remote
 Description:
 
 ```text
-Building a public library of open-source operating systems for early-stage founders and Founder’s Office teams.
+Building a public library of open-source operating systems for early-stage founders and Founder's Office teams.
 
 Core systems built:
 • Founder Weekly Operating Review Agent: turns weekly metrics into CEO-ready reviews, risks, priorities, team asks, and investor-safe updates.
@@ -175,7 +175,7 @@ Move India Q-Comm lower unless you are messaging consumer/q-commerce founders.
 
 Pin or emphasize:
 
-- Founder’s Office
+- Founder's Office
 - Revenue Operations
 - GTM Strategy
 - Business Operations
@@ -198,7 +198,7 @@ Do not ask founders to "check my profile."
 Use:
 
 ```text
-I’m building a public library of operating systems for early-stage founders: weekly reviews, GTM research, investor updates, RevOps templates, and KPI dashboards.
+I'm building a public library of operating systems for early-stage founders: weekly reviews, GTM research, investor updates, RevOps templates, and KPI dashboards.
 ```
 
 Then map one repo to one pain.
