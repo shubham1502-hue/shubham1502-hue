@@ -37,6 +37,63 @@ Founder OS
 - Metrics definitions: [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook)
 - Founder outreach: [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker)
 
+## Full founder operating lifecycle
+
+You can use each repo independently, or connect them into a full operating lifecycle. Start with the stage you need. You do not need to use everything.
+
+| Lifecycle stage | Founder question | Use this repo | Main input | Main output |
+| --- | --- | --- | --- | --- |
+| Company-wide AI leverage | Which workflows should we automate, hire for, outsource, or keep manual? | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Workflow inventory | AI ROI memo, ROI scorecard, hire-vs-automate decisions |
+| Operating foundation | What operating system should we build first? | [founder-os](https://github.com/shubham1502-hue/founder-os) | Company context and operating needs | Founder OS map, cadence templates, module guide |
+| RevOps backbone | How should CRM, handoffs, fields, reporting, and automations work? | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | CRM stages, handoffs, reporting needs | RevOps architecture, field map, templates, SQL examples |
+| Metrics foundation | Which metrics should we define before building dashboards? | [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Business model and KPI needs | Metric definitions, formulas, interpretation notes |
+| Pre-call GTM | Which accounts should we prioritize and how should we prepare? | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Target account CSV and persona | Account briefs, ICP scores, outreach drafts, call prep |
+| Post-call sales intelligence | What did we learn from sales calls and which deals need rescue? | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales call notes | Objection bank, deal rescue queue, weekly sales learning memo |
+| Revenue leakage | Where is the funnel leaking and what should we fix this week? | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Funnel or CRM export | Leakage diagnosis, bottleneck view, weekly GTM actions |
+| Post-sale onboarding | Which closed-won customers are stuck before activation? | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Customer onboarding tracker | Health scorecard, founder attention queue, onboarding memo |
+| Weekly operating review | What changed this week and what needs leadership action? | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | Weekly metrics and company context | CEO-ready weekly review, risks, team asks, next-week plan |
+| Board and investor narrative | What should investors or the board understand? | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Startup metrics and company context | Board pack, investor update, risks, decision list |
+| Relationship follow-up | Which founder, operator, investor, or partner follow-ups are slipping? | [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Outreach tracker | Follow-up cadence, reminder system, relationship pipeline |
+
+## Use only what you need
+
+Every major repo is standalone. You can fork one repo and ignore the rest. You can also combine 2 to 4 repos into an operating stack. The repos are connected by operating logic, not hard technical dependency. No repo should require another repo to run unless explicitly stated. The purpose is modularity, not complexity.
+
+| If you only need... | Use this stack |
+| --- | --- |
+| Better outbound and call prep | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) |
+| Sales call learning and deal rescue | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) |
+| Revenue bottleneck diagnosis | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) |
+| Customer onboarding control tower | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) |
+| Weekly founder cadence | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
+| Board or investor reporting | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+| AI automation prioritization | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) |
+| CRM and RevOps architecture | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) |
+| Metrics definitions | [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
+
+## Common Founder OS stacks
+
+| Stack | Use when | Repos |
+| --- | --- | --- |
+| Founder-led GTM stack | You are finding accounts, preparing calls, learning from conversations, and rescuing deals. | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) + [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) |
+| Revenue diagnosis stack | You need to understand why pipeline is not converting. | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
+| Post-sale activation stack | You are closing customers but activation is messy. | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
+| AI leverage stack | You want to use AI without random experimentation. | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
+| RevOps build stack | You need CRM, handoffs, reporting, and revenue operating discipline. | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
+| Board and investor stack | You need internal metrics to become investor-ready narrative. | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) + [edtech-saas-financial-model](https://github.com/shubham1502-hue/edtech-saas-financial-model) |
+| Full Founder OS stack | You want the complete operating lifecycle. | [founder-os](https://github.com/shubham1502-hue/founder-os) + [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) + [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+
+## Future Founder OS modules
+
+| Missing module | Founder problem it would solve | Priority |
+| --- | --- | --- |
+| Retention, renewal, and expansion OS | Show which activated customers are at renewal risk, expansion-ready, or slipping after onboarding. | High |
+| Product feedback and roadmap prioritization OS | Turn customer feedback, sales objections, support patterns, and founder judgment into roadmap tradeoffs. | High |
+| Founder hiring and talent pipeline OS | Help founders track role definition, candidate pipeline, interview signals, and hiring priorities. | Medium |
+| Fundraising readiness scorecard | Assess whether metrics, narrative, pipeline, and operating proof are ready for investor outreach. | Medium |
+| Customer support triage OS | Prioritize support issues by customer value, severity, activation impact, and churn risk. | Medium |
+| Partnership or channel sales OS | Manage partner pipeline, channel fit, co-selling motions, and partner-sourced revenue. | Low |
+
 ## Choosing between similar repos
 
 | If the problem is... | Use this | Not this |
