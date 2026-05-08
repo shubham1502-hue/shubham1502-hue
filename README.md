@@ -15,6 +15,7 @@ Choose by operating problem, not by repo name. In 60 seconds, pick the row that 
 | Pre-call GTM | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Account research, ICP scoring, outreach drafts, call prep, and tracker-ready exports. |
 | Post-call sales intelligence | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Objection bank, deal rescue queue, weekly sales learning memo, and narrative experiments. |
 | Revenue leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Funnel leakage diagnosis, bottleneck view, and weekly GTM action list. |
+| Post-sale onboarding and activation | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Onboarding health scorecard, founder attention queue, SLA risk list, activation matrix, score explanations, and weekly onboarding memo. |
 | Weekly review | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | CEO-ready weekly operating review from startup metrics and company context. |
 | Board or investor update | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Board pack, investor update draft, risk list, decision list, charts, and HTML report. |
 | RevOps architecture | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | CRM stages, field mapping, automations, handoffs, SQL reporting, and CEO briefing templates. |
@@ -29,6 +30,7 @@ Founder OS
 - GTM research: [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center)
 - Sales call learning: [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os)
 - Revenue diagnosis: [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine)
+- Customer onboarding and activation: [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os)
 - Weekly operating review: [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent)
 - Board/investor narrative: [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent)
 - RevOps infrastructure: [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook)
@@ -42,6 +44,7 @@ Founder OS
 | Finding accounts and preparing outreach before a call | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | `founder-led-sales-call-os`, which starts after calls happen. |
 | Learning from sales calls and rescuing deals | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | `ai-gtm-command-center`, which prepares pre-call research. |
 | Diagnosing weekly funnel leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | `revops-infrastructure-playbook`, which designs the CRM and reporting system. |
+| Tracking customers after close-won through activation | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | `founder-led-sales-call-os`, which handles post-call sales intelligence, or `founder-os-revenue-engine`, which diagnoses funnel leakage. |
 | Running the weekly founder review | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | `board-pack-investor-update-agent`, which is for board and investor reporting. |
 | Managing a payments business | [payments-business-management](https://github.com/shubham1502-hue/payments-business-management) | `fintech-transaction-analytics-monitoring-system`, which diagnoses transaction reliability. |
 | Monitoring transaction reliability or fraud-style anomalies | [fintech-transaction-analytics-monitoring-system](https://github.com/shubham1502-hue/fintech-transaction-analytics-monitoring-system) or [payments-monitoring-fraud-detection](https://github.com/shubham1502-hue/payments-monitoring-fraud-detection) | `payments-business-management`, which is a business review pack. |
@@ -63,6 +66,12 @@ Founder OS
 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Post-call sales intelligence and deal rescue. |
 | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Revenue leakage and weekly GTM diagnosis. |
 | [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Relationship tracking and follow-up discipline. |
+
+### Customer onboarding and activation
+
+| Repo | Use it for |
+| --- | --- |
+| [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Use it when closed-won customers are getting stuck after handoff, onboarding, implementation, training, payment, or activation. |
 
 ### AI workflow systems
 
