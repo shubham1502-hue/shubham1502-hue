@@ -12,6 +12,7 @@ Choose by operating problem, not by repo name. In 60 seconds, pick the row that 
 | --- | --- | --- |
 | Full founder operating system | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map, weekly cadence templates, and the entry point into the Founder OS library. |
 | AI workflow ROI | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Workflow ranking, ROI scorecards, payback logic, and hire-vs-automate decisions. |
+| Founder hiring and talent pipeline | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Role priority scorecard, candidate scorecard, founder candidate review queue, interview loop plan, trial project queue, reference check queue, offer risk summary, and founder hiring memo. |
 | Pre-call GTM | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Account research, ICP scoring, outreach drafts, call prep, and tracker-ready exports. |
 | Post-call sales intelligence | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Objection bank, deal rescue queue, weekly sales learning memo, and narrative experiments. |
 | Revenue leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Funnel leakage diagnosis, bottleneck view, and weekly GTM action list. |
@@ -29,6 +30,7 @@ Choose by operating problem, not by repo name. In 60 seconds, pick the row that 
 Founder OS
 
 - AI leverage: [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os)
+- Hiring and talent pipeline: [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os)
 - GTM research: [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center)
 - Sales call learning: [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os)
 - Revenue diagnosis: [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine)
@@ -48,6 +50,7 @@ You can use each repo independently, or connect them into a full operating lifec
 | Lifecycle stage | Founder question | Use this repo | Main input | Main output |
 | --- | --- | --- | --- | --- |
 | Company-wide AI leverage | Which workflows should we automate, hire for, outsource, or keep manual? | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Workflow inventory | AI ROI memo, ROI scorecard, hire-vs-automate decisions |
+| Hiring and talent pipeline | Which roles should we hire now, and which candidates have the evidence to advance? | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Open roles and candidate pipeline | Founder hiring memo, role priority scorecard, candidate scorecard, interview loop plan |
 | Operating foundation | What operating system should we build first? | [founder-os](https://github.com/shubham1502-hue/founder-os) | Company context and operating needs | Founder OS map, cadence templates, module guide |
 | RevOps backbone | How should CRM, handoffs, fields, reporting, and automations work? | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | CRM stages, handoffs, reporting needs | RevOps architecture, field map, templates, SQL examples |
 | Metrics foundation | Which metrics should we define before building dashboards? | [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Business model and KPI needs | Metric definitions, formulas, interpretation notes |
@@ -73,6 +76,7 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 | Customer onboarding control tower | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) |
 | Retention, renewal, and expansion control tower | [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) |
 | Product feedback and roadmap decisions | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) |
+| Founder hiring and talent pipeline | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) |
 | Weekly founder cadence | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
 | Board or investor reporting | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
 | AI automation prioritization | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) |
@@ -89,15 +93,15 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 | Retention and expansion stack | You need to protect renewals, find expansion, and identify customer proof. | [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
 | Product roadmap stack | You need customer signals to become build, validate, non-product fix, defer, or reject decisions. | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) + [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) + [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) |
 | AI leverage stack | You want to use AI without random experimentation. | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
+| Hiring and talent stack | You need to decide which roles to hire, delay, automate, outsource, or redefine, and which candidates should advance. | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) + [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) |
 | RevOps build stack | You need CRM, handoffs, reporting, and revenue operating discipline. | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) |
 | Board and investor stack | You need internal metrics to become investor-ready narrative. | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) + [edtech-saas-financial-model](https://github.com/shubham1502-hue/edtech-saas-financial-model) |
-| Full Founder OS stack | You want the complete operating lifecycle. | [founder-os](https://github.com/shubham1502-hue/founder-os) + [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) + [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) + [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) + [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+| Full Founder OS stack | You want the complete operating lifecycle. | [founder-os](https://github.com/shubham1502-hue/founder-os) + [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) + [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) + [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) + [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) + [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) + [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) + [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) + [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) + [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) + [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
 
 ## Future Founder OS modules
 
 | Missing module | Founder problem it would solve | Priority |
 | --- | --- | --- |
-| Founder hiring and talent pipeline OS | Help founders track role definition, candidate pipeline, interview signals, and hiring priorities. | Medium |
 | Fundraising readiness scorecard | Assess whether metrics, narrative, pipeline, and operating proof are ready for investor outreach. | Medium |
 | Customer support triage OS | Prioritize support issues by customer value, severity, activation impact, and churn risk. | Medium |
 | Partnership or channel sales OS | Manage partner pipeline, channel fit, co-selling motions, and partner-sourced revenue. | Low |
@@ -111,6 +115,7 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 | Diagnosing weekly funnel leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | `revops-infrastructure-playbook`, which designs the CRM and reporting system. |
 | Tracking customers after close-won through activation | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | `founder-led-sales-call-os`, which handles post-call sales intelligence, or `founder-os-revenue-engine`, which diagnoses funnel leakage. |
 | Turning customer signals into roadmap decisions | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | `founder-weekly-operating-review-agent`, which reviews weekly operating decisions, or `startup-metrics-playbook`, which defines metrics. |
+| Deciding which roles to hire and which candidates should advance | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | `founder-outreach-tracker`, which tracks relationships before they become an active hiring process. |
 | Running the weekly founder review | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | `board-pack-investor-update-agent`, which is for board and investor reporting. |
 | Managing a payments business | [payments-business-management](https://github.com/shubham1502-hue/payments-business-management) | `fintech-transaction-analytics-monitoring-system`, which diagnoses transaction reliability. |
 | Monitoring transaction reliability or fraud-style anomalies | [fintech-transaction-analytics-monitoring-system](https://github.com/shubham1502-hue/fintech-transaction-analytics-monitoring-system) or [payments-monitoring-fraud-detection](https://github.com/shubham1502-hue/payments-monitoring-fraud-detection) | `payments-business-management`, which is a business review pack. |
@@ -151,6 +156,12 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 | Repo | Use it for |
 | --- | --- |
 | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI workflow ROI, payback, risk, and hire-vs-automate decisions. |
+
+### Hiring and talent systems
+
+| Repo | Use it for |
+| --- | --- |
+| [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Role priority, candidate scorecards, interview loops, trial projects, reference checks, offer risks, 30-60-90 plans, and founder hiring decisions. |
 
 ### Board, investor, and metrics systems
 
