@@ -2,28 +2,71 @@
 
 I build founder-facing operating systems for early-stage startups.
 
-This GitHub is a modular Founder OS library for founders, Founder's Office candidates, BizOps operators, RevOps operators, GTM operators, and startup generalists who want practical workflows they can fork, adapt, and run.
+Currently building Founder OS: practical workflows that help founders turn messy GTM, RevOps, customer, product, hiring, AI workflow, and investor signals into decisions.
 
-## Start here
+These repos show how I would turn scattered startup work into decision systems inside a founder-led company.
 
-Choose by operating problem, not by repo name. In 60 seconds, pick the row that matches the decision you need to make this week.
+## Start with the founder problem
 
-| If you need... | Start with | What it gives you |
+| Founder problem | Use this repo | What it helps decide |
 | --- | --- | --- |
-| Full founder operating system | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map, weekly cadence templates, and the entry point into the Founder OS library. |
-| AI workflow ROI | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Workflow ranking, ROI scorecards, payback logic, and hire-vs-automate decisions. |
-| Founder hiring and talent pipeline | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Role priority scorecard, candidate scorecard, founder candidate review queue, interview loop plan, trial project queue, reference check queue, offer risk summary, and founder hiring memo. |
-| Pre-call GTM | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Account research, ICP scoring, outreach drafts, call prep, and tracker-ready exports. |
-| Post-call sales intelligence | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Objection bank, deal rescue queue, weekly sales learning memo, and narrative experiments. |
-| Revenue leakage | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Funnel leakage diagnosis, bottleneck view, and weekly GTM action list. |
-| Post-sale onboarding and activation | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Onboarding health scorecard, founder attention queue, SLA risk list, activation matrix, score explanations, and weekly onboarding memo. |
-| Retention, renewal, and expansion | [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) | Customer health scorecard, renewal risk queue, expansion opportunity queue, churn driver summary, proof opportunities, and founder retention memo. |
-| Product feedback and roadmap prioritization | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | Roadmap priority scorecard, product gap summary, roadmap decision queue, non-product fix queue, customer signal matrix, and founder roadmap memo. |
-| Weekly review | [founder-weekly-operating-review-agent](https://github.com/shubham1502-hue/founder-weekly-operating-review-agent) | CEO-ready weekly operating review from startup metrics and company context. |
-| Board or investor update | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Board pack, investor update draft, risk list, decision list, charts, and HTML report. |
-| RevOps architecture | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | CRM stages, field mapping, automations, handoffs, SQL reporting, and CEO briefing templates. |
-| Startup metrics | [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Metric definitions, formulas, interpretation notes, and dashboard planning language. |
-| Founder outreach | [founder-outreach-tracker](https://github.com/shubham1502-hue/founder-outreach-tracker) | Lightweight relationship tracker, follow-up cadence, and Make/Gmail automation guide. |
+| CRM, reporting, handoffs, or RevOps are broken | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | How to structure CRM, stages, handoffs, automations, and CEO visibility |
+| Outbound and account research are messy | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Which accounts to prioritize and how to prepare outreach |
+| Sales calls are not turning into learning | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Which objections repeat and which deals need rescue |
+| Revenue leakage is unclear | [founder-os-revenue-engine](https://github.com/shubham1502-hue/founder-os-revenue-engine) | Where the funnel is leaking and what to fix this week |
+| Closed-won customers are getting stuck | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Which customers need onboarding or activation intervention |
+| Customer feedback is scattered | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | What to build, validate, solve outside product, defer, or reject |
+| Board or investor updates take too long | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | What investors or board members need to understand |
+| AI automation feels random | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | What to automate, hire for, outsource, or leave manual |
+| Hiring is founder-memory driven | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Which roles and candidates deserve action |
+
+## Real operating experience
+
+At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
+
+## Founder OS sprint
+
+Feb-May 2026: building and distributing founder-facing operating systems while targeting Founder's Office, BizOps, Strategy, and startup operator roles.
+
+## Founder DM repo matching guide
+
+| Founder signal | Send this repo |
+| --- | --- |
+| Posting about outbound, pipeline creation, or GTM research | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) |
+| Talking about sales calls, objections, demos, or deal movement | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) |
+| Hiring RevOps, BizOps, Founder's Office, or operations talent | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) |
+| Recently funded or preparing investor updates | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+| Talking about onboarding, activation, or implementation drag | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) |
+| Talking about churn, retention, renewal, expansion, or customer proof | [founder-retention-expansion-os](https://github.com/shubham1502-hue/founder-retention-expansion-os) |
+| Talking about roadmap, customer feedback, or feature requests | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) |
+| Exploring AI automation or lean-team execution | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) |
+| Hiring operators or first team members | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) |
+
+Use one repo per outreach message. Do not send the full GitHub unless the person asks.
+
+## Recommended pinned repos
+
+| Priority | Repo | Why |
+| --- | --- | --- |
+| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 2 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 3 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
+| 4 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales conversations into operating intelligence |
+| 5 | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | Customer signals into roadmap decisions |
+| 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
+
+GitHub pinning may need to be updated manually from the profile UI.
+
+## For Founder's Office hiring
+
+These repos are not meant to show tool usage alone. They are meant to show how I structure ambiguous operating problems into:
+
+- inputs
+- scoring logic
+- decision artifacts
+- owner actions
+- weekly cadence
+- founder-ready communication
 
 ## Founder OS map
 
