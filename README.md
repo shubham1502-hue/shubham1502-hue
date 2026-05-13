@@ -6,6 +6,28 @@ Currently building Founder OS: practical workflows that help founders turn messy
 
 These repos show how I would turn scattered startup work into decision systems inside a founder-led company.
 
+## Real operating experience
+
+At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
+
+## Top six repos to open first
+
+| Priority | Repo | Why open it |
+| --- | --- | --- |
+| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 2 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 3 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
+| 4 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales conversations into operating intelligence |
+| 5 | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | Customer signals into roadmap decisions |
+| 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
+
+## Use this GitHub in two ways
+
+| Visitor | Best next action |
+| --- | --- |
+| Founder | Pick one operating problem, open the matching repo, replace the sample input or copy the template, and read the first founder-facing output. |
+| Founder's Office candidate | Pick one or two repos, adapt them to a public-safe or synthetic company case, and write a short case note showing inputs, scoring logic, decisions, owner actions, and cadence. |
+
 ## Start with the founder problem
 
 | Founder problem | Use this repo | What it helps decide |
@@ -19,10 +41,6 @@ These repos show how I would turn scattered startup work into decision systems i
 | Board or investor updates take too long | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | What investors or board members need to understand |
 | AI automation feels random | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | What to automate, hire for, outsource, or leave manual |
 | Hiring is founder-memory driven | [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Which roles and candidates deserve action |
-
-## Real operating experience
-
-At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
 
 ## Founder OS sprint
 
