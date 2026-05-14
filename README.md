@@ -4,7 +4,7 @@ I build founder-facing operating systems for early-stage startups.
 
 Currently building Founder OS: practical workflows that help founders turn messy GTM, RevOps, customer, product, hiring, AI workflow, and investor signals into decisions.
 
-These repos show how I would turn scattered startup work into decision systems inside a founder-led company.
+Public-safe proof of work showing how I structure messy startup operating problems into lightweight systems, decision artifacts, and founder-ready operating cadences.
 
 ## Real operating experience
 
@@ -14,11 +14,11 @@ At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture
 
 | Priority | Repo | Why open it |
 | --- | --- | --- |
-| 1 | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code starting point for non-technical founders to choose one operating problem, copy the right template, and generate a founder-ready output |
-| 2 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
-| 3 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 2 | [dorje-teas-d2c-revenue-growth-os](https://github.com/shubham1502-hue/dorje-teas-d2c-revenue-growth-os) | Public-safe D2C revenue-growth system with funnel, lifecycle, pricing, and operating artifacts |
+| 3 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Post-call sales intelligence for objections, deal risk, rescue actions, and founder learning |
 | 4 | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI workflow ROI and automation readiness before building deeper automation |
-| 5 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
+| 5 | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Customer onboarding and activation system for founder attention, risk queues, and handoffs |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
 
 ## For non-technical founders
@@ -82,11 +82,11 @@ Use one repo per outreach message. Do not send the full GitHub unless the person
 
 | Priority | Repo | Why |
 | --- | --- | --- |
-| 1 | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code front door for non-technical founders |
-| 2 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
-| 3 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 2 | [dorje-teas-d2c-revenue-growth-os](https://github.com/shubham1502-hue/dorje-teas-d2c-revenue-growth-os) | Public-safe D2C revenue-growth operating system |
+| 3 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Founder-led sales learning and deal rescue workflow |
 | 4 | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI workflow ROI and automation readiness |
-| 5 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
+| 5 | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Customer onboarding, activation, and founder attention workflow |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
 
 GitHub pinning may need to be updated manually from the profile UI.
