@@ -14,12 +14,27 @@ At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture
 
 | Priority | Repo | Why open it |
 | --- | --- | --- |
-| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
-| 2 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
-| 3 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
-| 4 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales conversations into operating intelligence |
-| 5 | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | Customer signals into roadmap decisions |
+| 1 | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code starting point for non-technical founders to choose one operating problem, copy the right template, and generate a founder-ready output |
+| 2 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 3 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 4 | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI workflow ROI and automation readiness before building deeper automation |
+| 5 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
+
+## For non-technical founders
+
+Start with [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit).
+
+It gives you:
+
+- a problem picker
+- no-code starter kits
+- CSV and Google Sheets-style templates
+- founder prompts
+- sample outputs
+- 10-minute setup guides
+
+Use one kit first. Do not adopt the full system on day one.
 
 ## Use this GitHub in two ways
 
@@ -32,6 +47,7 @@ At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture
 
 | Founder problem | Use this repo | What it helps decide |
 | --- | --- | --- |
+| I need a no-code starting point before GitHub, terminal, n8n, SQL, or automation | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | Which starter kit, template, prompt, and sample output to use first |
 | CRM, reporting, handoffs, or RevOps are broken | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | How to structure CRM, stages, handoffs, automations, and CEO visibility |
 | Outbound and account research are messy | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Which accounts to prioritize and how to prepare outreach |
 | Sales calls are not turning into learning | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Which objections repeat and which deals need rescue |
@@ -66,11 +82,11 @@ Use one repo per outreach message. Do not send the full GitHub unless the person
 
 | Priority | Repo | Why |
 | --- | --- | --- |
-| 1 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
-| 2 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
-| 3 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
-| 4 | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Sales conversations into operating intelligence |
-| 5 | [founder-product-feedback-roadmap-os](https://github.com/shubham1502-hue/founder-product-feedback-roadmap-os) | Customer signals into roadmap decisions |
+| 1 | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code front door for non-technical founders |
+| 2 | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest to real operating work and measurable RevOps impact |
+| 3 | [founder-os](https://github.com/shubham1502-hue/founder-os) | Umbrella map for the Founder OS portfolio |
+| 4 | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | AI workflow ROI and automation readiness |
+| 5 | [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center) | Founder-led GTM and outbound workflow |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
 
 GitHub pinning may need to be updated manually from the profile UI.
@@ -90,6 +106,7 @@ These repos are not meant to show tool usage alone. They are meant to show how I
 
 Founder OS
 
+- No-code adoption front door: [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit)
 - AI leverage: [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os)
 - Hiring and talent pipeline: [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os)
 - GTM research: [ai-gtm-command-center](https://github.com/shubham1502-hue/ai-gtm-command-center)
