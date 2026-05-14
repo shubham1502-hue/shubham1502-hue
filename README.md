@@ -10,7 +10,23 @@ Public-safe proof of work showing how I structure messy startup operating proble
 
 At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
 
-## Top six repos to open first
+## Start here by role
+
+| If you are | Start here | Why | First file to open | CTA |
+| --- | --- | --- | --- | --- |
+| Founder with broken CRM or handoffs | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | CRM hygiene, pipeline visibility, handoffs, automation logic, and CEO reporting. | [templates/crm-hygiene-audit.md](https://github.com/shubham1502-hue/revops-infrastructure-playbook/blob/main/templates/crm-hygiene-audit.md) | Copy the audit or open `templates/weekly-ceo-briefing-note.md`. |
+| Founder improving D2C revenue | [dorje-teas-d2c-revenue-growth-os](https://github.com/shubham1502-hue/dorje-teas-d2c-revenue-growth-os) | Weekly D2C revenue cadence across funnel, product, channel, retention, and margin. | [EXECUTIVE_SUMMARY.md](https://github.com/shubham1502-hue/dorje-teas-d2c-revenue-growth-os/blob/main/EXECUTIVE_SUMMARY.md) | Read `EXECUTIVE_SUMMARY.md` or `07_founder_review_system/weekly_revenue_review_memo.md`. |
+| Founder losing sales-call learning | [founder-led-sales-call-os](https://github.com/shubham1502-hue/founder-led-sales-call-os) | Turns messy call notes into objections, deal risk, rescue actions, and narrative tests. | [outputs/weekly_sales_learning_memo.md](https://github.com/shubham1502-hue/founder-led-sales-call-os/blob/main/outputs/weekly_sales_learning_memo.md) | Open the weekly sales learning memo. |
+| Founder unsure what to automate | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Ranks workflows by AI ROI, risk, payback, and hire-vs-automate logic. | [outputs/founder_ai_roi_memo.md](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os/blob/main/outputs/founder_ai_roi_memo.md) | Open the founder AI ROI memo. |
+| Founder with messy onboarding | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Finds closed-won customers stuck before activation. | [outputs/founder_onboarding_memo.md](https://github.com/shubham1502-hue/founder-customer-onboarding-os/blob/main/outputs/founder_onboarding_memo.md) | Open the founder onboarding memo. |
+| Founder preparing investor updates | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Turns metrics into board narrative, risks, decisions, and investor update drafts. | [docs/demo_output/board_pack.md](https://github.com/shubham1502-hue/board-pack-investor-update-agent/blob/main/docs/demo_output/board_pack.md) | Open the demo board pack. |
+| Non-technical operator | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code templates, prompts, sample inputs, and sample outputs. | [START-HERE.md](https://github.com/shubham1502-hue/founder-os-adoption-kit/blob/main/START-HERE.md) | Start with one kit. |
+| Hiring manager | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest repo to real operating work. | [outcomes/results.md](https://github.com/shubham1502-hue/revops-infrastructure-playbook/blob/main/outcomes/results.md) | Review outcomes and architecture. |
+| Technical operator | Any executable Founder OS repo | Most executable repos include sample data, config, outputs, tests, and a `Makefile`. | `Makefile`, `tests/`, and `outputs/` in the selected repo | Run the demo or inspect tests. |
+
+## Flagship proof repos to open first
+
+These six are the strongest proof repos. They should be inspected before supporting analytics or market projects.
 
 | Priority | Repo | Why open it |
 | --- | --- | --- |
@@ -21,20 +37,12 @@ At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture
 | 5 | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Customer onboarding and activation system for founder attention, risk queues, and handoffs |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
 
-## For non-technical founders
+## Navigation and adoption layers
 
-Start with [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit).
+- [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit): no-code starting point with starter kits, templates, prompts, and sample outputs.
+- [founder-os](https://github.com/shubham1502-hue/founder-os): umbrella map for how the modules connect.
 
-It gives you:
-
-- a problem picker
-- no-code starter kits
-- CSV and Google Sheets-style templates
-- founder prompts
-- sample outputs
-- 10-minute setup guides
-
-Use one kit first. Do not adopt the full system on day one.
+Use one kit or one repo first. Do not adopt the full system on day one.
 
 ## Use this GitHub in two ways
 
@@ -257,6 +265,8 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 
 ### Fintech and payments systems
 
+These are supporting projects. They add domain breadth, but they are not the first proof layer for Founder OS positioning.
+
 | Repo | Use it for |
 | --- | --- |
 | [payments-business-management](https://github.com/shubham1502-hue/payments-business-management) | Merchant health, margin, SLA risk, and payments business review. |
@@ -266,6 +276,8 @@ Every major repo is standalone. You can fork one repo and ignore the rest. You c
 | [debt-payoff-strategy-simulator](https://github.com/shubham1502-hue/debt-payoff-strategy-simulator) | Debt repayment strategy simulation for fintech or personal finance workflows. |
 
 ### Strategy and market systems
+
+These are supporting projects for analytics, strategy, and market judgment. They should sit below the flagship Founder OS proof repos.
 
 | Repo | Use it for |
 | --- | --- |
