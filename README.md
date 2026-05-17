@@ -20,6 +20,7 @@ At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture
 | Founder unsure what to automate | [founder-ai-workflow-roi-os](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) | Ranks workflows by AI ROI, risk, payback, and hire-vs-automate logic. | [outputs/founder_ai_roi_memo.md](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os/blob/main/outputs/founder_ai_roi_memo.md) | Open the founder AI ROI memo. |
 | Founder with messy onboarding | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Finds closed-won customers stuck before activation. | [outputs/founder_onboarding_memo.md](https://github.com/shubham1502-hue/founder-customer-onboarding-os/blob/main/outputs/founder_onboarding_memo.md) | Open the founder onboarding memo. |
 | Founder preparing investor updates | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Turns metrics into board narrative, risks, decisions, and investor update drafts. | [docs/demo_output/board_pack.md](https://github.com/shubham1502-hue/board-pack-investor-update-agent/blob/main/docs/demo_output/board_pack.md) | Open the demo board pack. |
+| Founder trying to turn expertise into business conversations | [founder-visibility-os](https://github.com/shubham1502-hue/founder-visibility-os) | Turns founder POVs, proof-of-work, and operating lessons into visibility, attribution, and repeatable content cadence. | [templates/copy_this_into_sheets.md](https://github.com/shubham1502-hue/founder-visibility-os/blob/main/templates/copy_this_into_sheets.md) | Copy one table, fill 10 rows, and run one weekly visibility review. |
 | Non-technical operator | [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) | No-code templates, prompts, sample inputs, and sample outputs. | [START-HERE.md](https://github.com/shubham1502-hue/founder-os-adoption-kit/blob/main/START-HERE.md) | Start with one kit. |
 | Hiring manager | [revops-infrastructure-playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) | Closest repo to real operating work. | [outcomes/results.md](https://github.com/shubham1502-hue/revops-infrastructure-playbook/blob/main/outcomes/results.md) | Review outcomes and architecture. |
 | Technical operator | Any executable Founder OS repo | Most executable repos include sample data, config, outputs, tests, and a `Makefile`. | `Makefile`, `tests/`, and `outputs/` in the selected repo | Run the demo or inspect tests. |
@@ -43,6 +44,14 @@ These six are the strongest proof repos. They should be inspected before support
 - [founder-os](https://github.com/shubham1502-hue/founder-os): umbrella map for how the modules connect.
 
 Use one kit or one repo first. Do not adopt the full system on day one.
+
+## Optional distribution layer
+
+Founder OS helps founders operate better. [Founder Visibility OS](https://github.com/shubham1502-hue/founder-visibility-os) helps founders explain operating insight to the market.
+
+Use founder-visibility-os when proof-of-work, GTM learnings, RevOps lessons, product signals, hiring lessons, or investor narratives should become founder-facing visibility and business conversations.
+
+This is optional. Do not adopt it before the core operating workflow is useful.
 
 ## How to use this GitHub
 
