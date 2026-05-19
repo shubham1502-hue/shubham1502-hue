@@ -38,6 +38,13 @@ These six are the strongest proof repos. They should be inspected before support
 | 5 | [founder-customer-onboarding-os](https://github.com/shubham1502-hue/founder-customer-onboarding-os) | Customer onboarding and activation system for founder attention, risk queues, and handoffs |
 | 6 | [board-pack-investor-update-agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) | Founder and investor communication |
 
+## Supporting operator systems
+
+| Repo | Use case |
+| --- | --- |
+| [founder-hiring-talent-pipeline-os](https://github.com/shubham1502-hue/founder-hiring-talent-pipeline-os) | Hiring decisions, scorecards, trial projects, reference checks, and founder hiring memos |
+| [startup-metrics-playbook](https://github.com/shubham1502-hue/startup-metrics-playbook) | Shared metric definitions for dashboards, board packs, weekly reviews, and RevOps reporting |
+
 ## Navigation and adoption layers
 
 - [founder-os-adoption-kit](https://github.com/shubham1502-hue/founder-os-adoption-kit): no-code starting point with starter kits, templates, prompts, and sample outputs.
