@@ -10,6 +10,19 @@ Public-safe proof of work showing how I structure messy startup operating proble
 
 At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
 
+## If you only have 2 minutes
+
+Pick the startup problem that looks closest to your current chaos, then open one repo.
+
+| Startup problem | Open this repo |
+| --- | --- |
+| CRM, handoffs, automation, and founder reporting are messy | [RevOps Infrastructure Playbook](https://github.com/shubham1502-hue/revops-infrastructure-playbook) |
+| D2C revenue, retention, margin, and growth decisions feel scattered | [Dorje Teas D2C Revenue Growth OS](https://github.com/shubham1502-hue/dorje-teas-d2c-revenue-growth-os) |
+| Founder-led sales calls are not turning into repeatable learning | [Founder-Led Sales Call OS](https://github.com/shubham1502-hue/founder-led-sales-call-os) |
+| You are unsure which AI workflows are worth automating | [Founder AI Workflow ROI OS](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) |
+| Closed-won customers are not activating cleanly | [Founder Customer Onboarding OS](https://github.com/shubham1502-hue/founder-customer-onboarding-os) |
+| Investor updates, board prep, risks, and metrics are scattered | [Board Pack Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+
 ## Start here by role
 
 | If you are | Start here | Why | First file to open | CTA |
