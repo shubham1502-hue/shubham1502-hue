@@ -8,7 +8,11 @@ Public-safe proof of work showing how I structure messy startup operating proble
 
 ## Real operating experience
 
-At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, handoffs, automations, reporting, and CEO visibility. That operating experience is the base layer behind this Founder OS portfolio.
+At STEMpedia, I built RevOps infrastructure from scratch across CRM architecture, pipeline stages, reporting, workflow automation, cross-team handoffs, and CEO visibility in a founder-led EdTech environment. That operating context is the base layer behind this Founder OS portfolio.
+
+## Data and proof boundary
+
+The public repos here are public-safe versions of operating patterns, templates, decision systems, and example workflows. They do not expose private records, customer-identifiable information, internal metrics, credentials, or confidential operating context.
 
 ## If you only have 2 minutes
 
@@ -22,6 +26,8 @@ Pick the startup problem that looks closest to your current chaos, then open one
 | You are unsure which AI workflows are worth automating | [Founder AI Workflow ROI OS](https://github.com/shubham1502-hue/founder-ai-workflow-roi-os) |
 | Closed-won customers are not activating cleanly | [Founder Customer Onboarding OS](https://github.com/shubham1502-hue/founder-customer-onboarding-os) |
 | Investor updates, board prep, risks, and metrics are scattered | [Board Pack Investor Update Agent](https://github.com/shubham1502-hue/board-pack-investor-update-agent) |
+
+Non-technical founder? Start with the [Founder OS Adoption Kit](https://github.com/shubham1502-hue/founder-os-adoption-kit) for the no-code path.
 
 ## Start here by role
 
